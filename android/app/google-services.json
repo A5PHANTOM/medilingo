@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172596402024",
+    "project_id": "medilingo-55687",
+    "storage_bucket": "medilingo-55687.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172596402024:android:2d1647755e55ae5b8ea8dd",
+        "android_client_info": {
+          "package_name": "com.example.medilingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BqxyUhmxbSSP6_IXyiW53g4jrCOghdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
